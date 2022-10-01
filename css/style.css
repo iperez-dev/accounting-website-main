@@ -5178,7 +5178,7 @@ iframe {
 /* Footer Widgets
 -------------------------------------------------------*/
 .footer__widgets {
-  padding: 20px 0 0px;
+  padding: 20px 0 40px;
 }
 
 .footer__widgets a {
