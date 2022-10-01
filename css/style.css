@@ -23,7 +23,10 @@ html {
 .clearfix {
   *zoom: 1;
 }
-
+.padding-bottom-top {
+  padding-top: 180px;
+  padding-bottom: 20px;
+}
 .clearfix:before,
 .clearfix:after {
   display: table;
